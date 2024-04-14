@@ -7,5 +7,5 @@ abstract only (Not Data)
 
 ## 概要
 監視カメラから送られる映像（連続したRGB画像）を基に振込詐欺を防止するシステムを作成しました。  
-処理は以下のフローチャートのようになっています
+処理は以下のフローチャートのようになっています。
 ![image](https://github.com/kuroi-git/Internship_D1-summer1/assets/149265808/ad6c4efd-e758-4610-9e22-f934e10fbdd6)
