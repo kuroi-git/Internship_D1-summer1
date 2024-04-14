@@ -11,10 +11,11 @@ abstract only (Not Data)
 処理は以下のフローチャートのようになっています。
 ![image](https://github.com/kuroi-git/Internship_D1-summer1/assets/149265808/87d5f776-88cd-4c11-bb69-cabc562fb700)
 
-
-
 ### 期間
 1ヶ月
+
+### 規模
+プログラムコード500行程度
 
 ## プロジェクト2
 ### 概要
@@ -25,3 +26,6 @@ abstract only (Not Data)
 
 ### 期間
 1ヶ月
+
+### 規模
+総プログラムコード1200行程度
